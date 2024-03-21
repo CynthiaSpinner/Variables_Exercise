@@ -1,0 +1,14 @@
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\bin\Debug\net8.0\Variables_Exercise.exe
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\bin\Debug\net8.0\Variables_Exercise.deps.json
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\bin\Debug\net8.0\Variables_Exercise.runtimeconfig.json
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\bin\Debug\net8.0\Variables_Exercise.dll
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\bin\Debug\net8.0\Variables_Exercise.pdb
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\obj\Debug\net8.0\Variables_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\obj\Debug\net8.0\Variables_Exercise.AssemblyInfoInputs.cache
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\obj\Debug\net8.0\Variables_Exercise.AssemblyInfo.cs
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\obj\Debug\net8.0\Variables_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\obj\Debug\net8.0\Variables_Exercise.dll
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\obj\Debug\net8.0\refint\Variables_Exercise.dll
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\obj\Debug\net8.0\Variables_Exercise.pdb
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\obj\Debug\net8.0\Variables_Exercise.genruntimeconfig.cache
+C:\Users\cynth\source\repos\Variables_Exercise\Variables_Exercise\obj\Debug\net8.0\ref\Variables_Exercise.dll
